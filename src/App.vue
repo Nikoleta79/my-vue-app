@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Real Estate Care Logo" src="./assets/Text.png">
-    <HelloWorld msg="Hello World en Welcome to Real Estate Care!" />
+    <HelloWorld msg="Hello World en Welcome to Real Estate Care !" />
   </div>
 </template>
 
