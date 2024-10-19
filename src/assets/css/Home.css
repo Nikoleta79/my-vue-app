@@ -1,0 +1,42 @@
+
+ion-content {
+    background-color: rgba(0, 170, 162, 1); 
+  }
+  
+  
+  .ion-tab-bar {
+    --background: rgba(71, 94, 108, 1); 
+    --color-selected: rgba(20, 27, 31, 1); 
+    --color: rgba(255, 255, 255, 1); 
+  }
+  
+  .logo {
+    height: 30px;
+    object-fit: contain;
+  }
+  
+  .ion-tab-bar {
+    --background: rgba(71, 94, 108, 1); 
+    --color-selected: rgba(20, 27, 31, 1); 
+    --color: rgba(255, 255, 255, 1); 
+    height: 60px; 
+    display: flex;
+    justify-content: space-around;
+    border-top: 1px solid rgba(20, 27, 31, 0.1); 
+  }
+  
+  .welcome-message {
+    text-align: center;
+    padding: 16px;
+    color: rgba(20, 27, 31, 1); 
+    font-size: 16px; 
+    background-color: rgba(0, 170, 162, 0.1); 
+  }
+  
+  .v-card {
+    margin-bottom: 12px;
+  }
+  
+  .v-card-title, .v-card-subtitle {
+    text-align: center;
+  }
